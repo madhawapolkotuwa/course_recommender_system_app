@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+tensorflow==2.7.0
+matplotlib
